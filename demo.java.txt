@@ -2,7 +2,7 @@ import java.util.Scanner;
 class demo{
 public static void main(string arg[]){
 System.out.print("hello");
-System.out.print("first branch adding now working...");
+System.out.print("second branch adding now working...");
 
 }
 }
